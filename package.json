@@ -1,0 +1,20 @@
+{
+  "name": "2e_ga_pw2_2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm i -g @angular/core @angular/cli; ng version",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/biancalopes08/2e_ga_pw2_2021.git"
+  },
+  "author": "Bianca de Oliveira Lopes Conceição",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/biancalopes08/2e_ga_pw2_2021/issues"
+  },
+  "homepage": "https://github.com/biancalopes08/2e_ga_pw2_2021#readme"
+}
